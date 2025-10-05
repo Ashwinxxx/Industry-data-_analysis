@@ -1,0 +1,34 @@
+CYCLONE SENSOR DATA ANALYSIS - KEY INSIGHTS
+============================================================
+
+INSIGHT 1 - Shutdown Patterns:
+- Total downtime: 169.1 days (12.9% of operational time)
+- Average shutdown duration: 9.9 hours
+- Number of shutdowns: 408
+- Recommendation: Investigate frequent short shutdowns for prevention opportunities.
+
+
+INSIGHT 2 - Operational State Distribution:
+- High load state (Cluster 2): 71.2% of active time
+- Low load state (Cluster 1): 6.6% of active time
+- Recommendation: Optimize for most frequent operational state to maximize efficiency.
+
+
+INSIGHT 3 - Anomaly Characteristics:
+- Total anomalous events: 395
+- Average anomaly duration: 78.6 minutes
+- Cluster with most anomalies: Cluster 2 (256 events)
+- Recommendation: Implement real-time monitoring for Cluster 2.
+
+
+INSIGHT 4 - Process Relationships:
+- Inlet Temperature-Draft correlation: -0.902
+- Strong temperature-draft coupling indicates well-controlled process
+- Recommendation: Monitor for correlation breakdown as early warning sign.
+
+
+INSIGHT 5 - Predictive Maintenance Opportunities:
+- Short-term forecasts show good accuracy during stable operation
+- Forecast degradation occurs before shutdowns and during state transitions
+- Recommendation: Use rolling forecast error as predictive maintenance indicator.
+
