@@ -1,0 +1,6 @@
+query,answer,sources,confidence,num_contexts
+What does a sudden draft drop indicate?,draft surge,"anomaly_response, maintenance_guide, cyclone_operation_manual",medium,3
+What are the normal operating temperature ranges?,400°C to 380°C,"anomaly_response, cyclone_operation_manual",medium,3
+How should I respond to high inlet temperature?,Reduce feed rate by 10-20%,"anomaly_response, cyclone_operation_manual",medium,3
+What maintenance should be done weekly?,Clean cone section if material buildup detected,"anomaly_response, maintenance_guide",medium,3
+What causes temperature fluctuations?,Inconsistent feed or upstream process variation,"anomaly_response, maintenance_guide, cyclone_operation_manual",medium,3

@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "anomaly_response_chunk_0",
+    "text": "[Page 1] ANOMALY RESPONSE PROCEDURES TEMPERATURE ANOMALIES Sudden Inlet Temperature Drop: - Likely causes: Feed interruption, draft surge, cooling system malfunction - Immediate action: Check feed system, verify draft readings - If draft spike coincides: Probable blockage clearing event - Monitor for 15-30 minutes before intervention Gradual Temperature Increase: - Likely causes: Material accumulation, reduced airflow, process drift - Immediate action: Inspect cone section, check fan operation -",
+    "doc_name": "anomaly_response",
+    "start_char": 0,
+    "end_char": 500,
+    "length": 500
+  },
+  {
+    "chunk_id": "anomaly_response_chunk_1",
+    "text": "tion, reduced airflow, process drift - Immediate action: Inspect cone section, check fan operation - Initiate controlled shutdown if temperature >380\u00b0C DRAFT ANOMALIES High Negative Pressure: - Indicates blockage or excessive fan speed - Reduce fan speed by 10%, inspect for blockages - Do not exceed -250 Pa for extended periods Low or Positive Pressure: - Indicates leak, fan failure, or bypass valve issue - Check all access points for leaks - Verify fan operation and bypass valve position COMBIN",
+    "doc_name": "anomaly_response",
+    "start_char": 400,
+    "end_char": 900,
+    "length": 500
+  },
+  {
+    "chunk_id": "anomaly_response_chunk_2",
+    "text": "ve issue - Check all access points for leaks - Verify fan operation and bypass valve position COMBINED ANOMALIES Temperature drop + Draft spike: - Classic signature of blockage clearing - Usually self-correcting - Document event and inspect during next maintenance Temperature spike + Draft drop: - Serious condition indicating possible fan failure - Initiate emergency shutdown procedures - Do not restart until root cause identified",
+    "doc_name": "anomaly_response",
+    "start_char": 800,
+    "end_char": 1300,
+    "length": 434
+  },
+  {
+    "chunk_id": "cyclone_operation_manual_chunk_0",
+    "text": "[Page 1] CYCLONE SEPARATOR OPERATION MANUAL 1. INTRODUCTION The cyclone separator is a critical component in the material processing sys It uses centrifugal force to separate particles from gas streams. 2. NORMAL OPERATING CONDITIONS - Inlet Gas Temperature: 250-350\u00b0C - Outlet Gas Temperature: 200-300\u00b0C - Inlet Draft: -50 to -150 Pa - Material Temperature: 80-120\u00b0C 3. SHUTDOWN PROCEDURES A shutdown should be initiated when: - Inlet temperature exceeds 400\u00b0C for more than 10 minutes - Draft press",
+    "doc_name": "cyclone_operation_manual",
+    "start_char": 0,
+    "end_char": 500,
+    "length": 500
+  },
+  {
+    "chunk_id": "cyclone_operation_manual_chunk_1",
+    "text": "n should be initiated when: - Inlet temperature exceeds 400\u00b0C for more than 10 minutes - Draft pressure drops below -200 Pa - Material temperature exceeds 150\u00b0C Emergency shutdown: Close inlet valve, open bypass, reduce fan speed gradual 4. TROUBLESHOOTING Issue: High Inlet Temperature Cause: Excessive feed rate or inadequate cooling Solution: Reduce feed rate by 10-20%, check cooling system Issue: Low Draft Pressure Cause: Blockage in cone section or fan malfunction Solution: Inspect cone for b",
+    "doc_name": "cyclone_operation_manual",
+    "start_char": 400,
+    "end_char": 900,
+    "length": 500
+  },
+  {
+    "chunk_id": "cyclone_operation_manual_chunk_2",
+    "text": ": Low Draft Pressure Cause: Blockage in cone section or fan malfunction Solution: Inspect cone for buildup, verify fan operation Issue: Temperature Fluctuations Cause: Inconsistent feed or upstream process variation Solution: Stabilize feed rate, check upstream conditions",
+    "doc_name": "cyclone_operation_manual",
+    "start_char": 800,
+    "end_char": 1300,
+    "length": 272
+  },
+  {
+    "chunk_id": "maintenance_guide_chunk_0",
+    "text": "[Page 1] CYCLONE MAINTENANCE GUIDE ROUTINE MAINTENANCE SCHEDULE Daily Checks: - Verify all temperature readings are within normal range - Check for unusual vibrations or noise - Inspect seals for leaks Weekly Maintenance: - Clean cone section if material buildup detected - Lubricate fan bearings - Check draft pressure sensors for calibration Monthly Maintenance: - Inspect inlet ducting for erosion - Replace filters if pressure drop exceeds 100 Pa - Test emergency shutdown systems COMMON FAILURE",
+    "doc_name": "maintenance_guide",
+    "start_char": 0,
+    "end_char": 500,
+    "length": 499
+  },
+  {
+    "chunk_id": "maintenance_guide_chunk_1",
+    "text": "- Replace filters if pressure drop exceeds 100 Pa - Test emergency shutdown systems COMMON FAILURE MODES Draft Surge: A sudden increase in negative pressure can indicate partial blockage clearin This may cause temporary temperature spikes. Monitor for 30 minutes. Sensor Drift: Temperature sensors may drift over time. Recalibrate every 6 months. Typical drift: \u00b15\u00b0C per year. Fan Belt Wear: Worn fan belts cause reduced draft and inefficient separation. Replace belts showing cracks or 10% stretch.",
+    "doc_name": "maintenance_guide",
+    "start_char": 400,
+    "end_char": 900,
+    "length": 499
+  }
+]
